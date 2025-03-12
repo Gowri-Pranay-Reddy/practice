@@ -1,4 +1,3 @@
 this is file inside repository
 Adding a line for example
-:wq
-
+Adding line from github for pull example
